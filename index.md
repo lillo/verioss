@@ -1,23 +1,21 @@
-## VeriOSS a Blockchain-based Bug Bounty Platform
+## VeriOSS: a Blockchain-based Bug Bounty Platform
 
-VeriOSS is a research project which aims at designing and implementing a 
-bug bounty platform based on the blockchain and smart contract technologies. 
-The project was funded by [IMT Lucca School for Advanced Studies](http://www.imtlucca.it/en) as part of *Progetti Attività Integrata* (PAI Junior).
+VeriOSS is a blockchain-based 
+bug bounty platform. It is the outcome of a research project funded by [IMT Lucca School for Advanced Studies](http://www.imtlucca.it/en) as part of *Progetti Attività Integrata* (PAI Junior).
 
-Read the main goals of the project [here](project).
+Read as summary of the goals of the project [here](project), or the full position paper [here]((https://iris.imtlucca.it/retrieve/handle/20.500.11771/15589/13805/main.pdf)).
 
-To know of the details of the project, read the VeriOSS main paper:
-
-> Andrea Canidio, Gabriele Costa, and Letterio Galletta. ["VeriOSS: Using the Blockchain to Foster Bug Bounty Programs."]((https://iris.imtlucca.it/retrieve/handle/20.500.11771/15589/13805/main.pdf)) 2nd International Conference on Blockchain Economics, Security and Protocols (Tokenomics 2020). OASIcs Vol. 82. 2020.
 
 ## The Team 
 * [Andrea Canidio](http://andreacanidio.com/), Assistant Professor, IMT School for Advanced Studies, AXES Research Unit
 * [Gabriele Costa](https://sysma.imtlucca.it/pages/gabriele-costa/), Associate Professor, IMT School for Advanced Studies, SySMa Research Unit (**Principal Investigator**)
 * [Letterio Galletta](https://sysma.imtlucca.it/pages/letterio-galletta/), Assistant Professor, IMT School for Advanced Studies, SySMa Research Unit
 
-## Publications
+## Position Paper
 
 * Andrea Canidio, Gabriele Costa, and Letterio Galletta. ["VeriOSS: Using the Blockchain to Foster Bug Bounty Programs."](https://iris.imtlucca.it/retrieve/handle/20.500.11771/15589/13805/main.pdf) 2nd International Conference on Blockchain Economics, Security and Protocols (Tokenomics 2020). OASIcs Vol. 82. 2020.
+
+## Other Publications
 
 * Pierpaolo Degano, Letterio Galletta, and Selene Gerali. ["Verifying a Blockchain-Based Remote Debugging Protocol for Bug Bounty."]() Protocols, Strands, and Logic. LNCS Vol. 13066. 2021.
 
