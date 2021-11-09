@@ -3,7 +3,7 @@
 VeriOSS is a blockchain-based 
 bug bounty platform. It is the outcome of a research project funded by [IMT Lucca School for Advanced Studies](http://www.imtlucca.it/en) as part of *Progetti Attività Integrata* (PAI Junior).
 
-Read as summary of the goals of the project [here](project), or the full position paper [here]((https://iris.imtlucca.it/retrieve/handle/20.500.11771/15589/13805/main.pdf)).
+Read as summary of the goals of the project [here](project), or the full position paper [here](https://iris.imtlucca.it/retrieve/handle/20.500.11771/15589/13805/main.pdf).
 
 
 ## The Team 
