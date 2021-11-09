@@ -1,11 +1,13 @@
 ## VeriOSS: a Blockchain-based Bug Bounty Platform
 
-![BPMN-workflow](figure.png){:class="img-responsive"}
+
 
 VeriOSS is a blockchain-based 
 bug bounty platform. It is the outcome of a research project funded by [IMT Lucca School for Advanced Studies](http://www.imtlucca.it/en) as part of *Progetti Attività Integrata* (PAI Junior).
 
-Read as summary of the goals of the project [here](project), or the full position paper [here](https://drops.dagstuhl.de/opus/volltexte/2021/13528/pdf/OASIcs-Tokenomics-2020-6.pdf).
+![BPMN-workflow](figure.png){:class="img-responsive"}
+
+Read a summary of the goals of the project [here](project), or the full position paper [here](https://drops.dagstuhl.de/opus/volltexte/2021/13528/pdf/OASIcs-Tokenomics-2020-6.pdf).
 
 
 ## The Team 
